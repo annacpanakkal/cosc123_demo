@@ -2,6 +2,8 @@
 
 This is just a random text
 
+For *italics style* text, just surround the words with single star
+
 ## This is a level two heading
 
 If you want **bold** text, just surround the words with double star
@@ -12,7 +14,6 @@ If you want to make a list, use dashers:
 
 - item 1
 - item 2
-- item 3
 
 If you want to make a numbered list:
 
